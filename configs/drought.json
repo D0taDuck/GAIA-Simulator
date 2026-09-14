@@ -1,0 +1,8 @@
+{
+  "seed": 42,
+  "mode": "feedback",
+  "rainfall": 2.0,
+  "initial_water": 150.0,
+  "initial_reservoir": 100.0,
+  "initial_food": 150.0
+}

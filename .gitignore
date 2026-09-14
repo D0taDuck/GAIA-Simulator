@@ -1,5 +1,16 @@
+# Python runtime artifacts
 __pycache__/
-*.pyc
-.venv/
-runs/
+*.py[cod]
 *.tmp
+.venv/
+venv/
+
+# Local monitor sessions and generated test/export output
+runs/
+tests/gaia-history.csv
+examples/
+
+# Editor and operating-system files
+.vscode/
+.DS_Store
+Thumbs.db

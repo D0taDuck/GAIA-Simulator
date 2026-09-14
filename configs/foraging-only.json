@@ -1,0 +1,11 @@
+{
+  "mode": "feedback",
+  "seed": 42,
+  "initial_population": 36,
+  "demeter_enabled": false,
+  "thor_enabled": false,
+  "food_growth": 110.0,
+  "wild_food_capacity": 1400.0,
+  "forage_per_inhabitant": 1.1,
+  "birth_probability": 0.004
+}

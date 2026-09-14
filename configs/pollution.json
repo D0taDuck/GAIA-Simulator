@@ -1,0 +1,7 @@
+{
+  "seed": 42,
+  "mode": "feedback",
+  "pollution_per_person": 0.8,
+  "pollution_decay": 0.002,
+  "initial_pollution": 75.0
+}

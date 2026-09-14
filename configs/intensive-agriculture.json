@@ -1,0 +1,11 @@
+{
+  "mode": "feedback",
+  "seed": 42,
+  "initial_population": 36,
+  "farm_land": 0.85,
+  "farm_yield": 135.0,
+  "farm_water_cost": 0.42,
+  "farm_pollution_per_food": 0.025,
+  "fertility_recovery": 0.0008,
+  "birth_probability": 0.008
+}
