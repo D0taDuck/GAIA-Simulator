@@ -1,0 +1,9 @@
+[project]
+name = "gaia-world-lab"
+version = "0.1.0"
+description = "A reproducible autonomous world experiment"
+requires-python = ">=3.11"
+dependencies = []
+
+[tool.gaia]
+entry = "python -m gaia"
